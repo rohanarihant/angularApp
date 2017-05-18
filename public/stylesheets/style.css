@@ -1,0 +1,12 @@
+div.dataTables_length label {
+    display: none;
+}
+div.dataTables_info {
+    display: none;
+}
+div.dataTables_filter label {
+    width: 100%;
+}
+div.dataTables_filter input {
+    width: 100%;
+}
