@@ -5,4 +5,4 @@
   - Run : npm install & then
   - Run : npm start & then
   - Run application on localhost : http://localhost:3000/
-  - Run application on heroku :
+  - Run application on heroku : https://searchangular.herokuapp.com/#/
